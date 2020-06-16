@@ -3,3 +3,6 @@ composer create-project --prefer-dist laravel/laravel {namaFolder}
 
 Cara Menjalankan laravel melalui server:
 php artisan serve
+
+Cara memakai toolkit di laravel
+php artisan make:controller {namaFile} --resource
